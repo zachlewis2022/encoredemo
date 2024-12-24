@@ -1,0 +1,4 @@
+CREATE TABLE welcome (
+    id VARCHAR(32) PRIMARY KEY,
+    name TEXT NOT NULL
+);
